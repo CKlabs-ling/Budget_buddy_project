@@ -1,5 +1,5 @@
 import os
-from libary.functions import calc_balance, financial_status
+from backend.libary.backroom_functions import calc_balance, financial_status
 from libary.classes import Budget
 
 Entername = input("Please Enter your name: ")
