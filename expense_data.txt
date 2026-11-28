@@ -1,0 +1,26 @@
+Groccery
+Milk: $52.00
+Bread: $30.00
+Eggs: $30.00
+Flour: $20.00
+Fruits: $10.00
+
+Lawn
+Seeds: $20.00
+Soil: $20.00
+Fertalizer: $20.00
+Pesticide: $10.00
+
+School
+Pen: $120.00
+Paper: $110.00
+Ink: $110.00
+
+Car
+Gas: $40.00
+Oil: $30.00
+Repairs: $20.00
+
+Dummy
+Dummy: $30.00
+

@@ -1,5 +1,5 @@
-def calc_balance(income,expanses):
-    balance = income - expanses
+def calc_balance(income, total_expense):
+    balance = income - total_expense
     return balance
 
 def financial_status(balance):
